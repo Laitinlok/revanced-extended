@@ -83,7 +83,8 @@ jobs:
           release_name: ReVanced eXtended v${{ steps.get_output.outputs.DATE }}
           tag: ${{ steps.next_ver_code.outputs.NEXT_VER_CODE }}
           file_glob: true
-          overwrite: true
+          overwrite: false
+          update_existing: true
 
       - name: Update changelog and Magisk update json
         id: update_config
