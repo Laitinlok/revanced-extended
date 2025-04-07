@@ -85,6 +85,8 @@ jobs:
           file_glob: true
           overwrite: false
           update_existing: true
+          prerelease: false
+          make_latest: true
 
       - name: Update changelog and Magisk update json
         id: update_config
