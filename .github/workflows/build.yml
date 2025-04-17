@@ -6,8 +6,18 @@ on:
         type: boolean
         required: false
         default: true
+      test_build:
+        type: boolean
+        required: false
+        default: false
 
   workflow_dispatch:
+    inputs:
+      test_build:
+        description: 'Run as test build'
+        type: boolean
+        required: false
+        default: false
 
 jobs:
   run:
@@ -53,7 +63,12 @@ jobs:
           echo "NEXT_VER_CODE=$((TAG + 1))" >> $GITHUB_OUTPUT
 
       - name: Build modules/APKs
-        run: if [ -f "config.json" ]; then ./build.sh config.json; else ./build.sh config.toml; fi
+        run: |
+          if [ "${{ inputs.test_build }}" = "true" ]; then
+            if [ -f "config.json" ]; then ./build.sh config.json --test; else ./build.sh config.toml --test; fi
+          else
+            if [ -f "config.json" ]; then ./build.sh config.json; else ./build.sh config.toml; fi
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: $GITHUB_REPOSITORY
