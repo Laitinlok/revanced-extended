@@ -1,6 +1,6 @@
 {
-  "version": "v8.05.51 (patches: 3.6.0) (88)",
-  "versionCode": 88,
-  "zipUrl": "https://github.com/thunderkex/revanced-extended/releases/download/88/music-ex-revanced-magisk-v8.05.51-arm64-v8a.zip",
+  "version": "v8.05.51 (patches: 3.7.0) (89)",
+  "versionCode": 89,
+  "zipUrl": "https://github.com/thunderkex/revanced-extended/releases/download/89/music-ex-revanced-magisk-v8.05.51-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/thunderkex/revanced-extended/update/build.md"
 }
