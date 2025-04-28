@@ -35,6 +35,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook"
 arch = "arm64-v8a"
 
 [Instagram]
+version = "377.0.0.40.63"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
 arch = "arm64-v8a"
