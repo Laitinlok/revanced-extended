@@ -1,6 +1,6 @@
 {
-  "version": "v19.47.53 (patches 5.10.1) (202509011622)",
-  "versionCode": 202509011622,
-  "zipUrl": "https://github.com/thunderkex/revanced-extended/releases/download/202509011622/youtube-ex-dev-revanced-magisk-v19.47.53-arm64-v8a.zip",
+  "version": "v19.47.53 (patches dev.1) (202509061619)",
+  "versionCode": 202509061619,
+  "zipUrl": "https://github.com/thunderkex/revanced-extended/releases/download/202509061619/youtube-ex-dev-revanced-magisk-v19.47.53-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/thunderkex/revanced-extended/update/build.md"
 }
