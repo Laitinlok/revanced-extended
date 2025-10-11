@@ -10,4 +10,4 @@ Patches: inotia00/patches-5.12.1-dev.7.rvp
 
 Skipped:  
 Patches: ReVanced/patches-5.42.1.rvp  
-Patches: anddea/patches-3.14.0.rvp          
+Patches: anddea/patches-3.14.0.rvp            
