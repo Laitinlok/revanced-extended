@@ -67,7 +67,6 @@ enabled = true
 build-mode = "apk"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
-patches-version = "dev"
 
 [Lightroom-Ex]
 enabled = false
