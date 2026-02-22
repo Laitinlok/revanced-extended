@@ -119,7 +119,7 @@ uptodown-dlurl = "https://threads.en.uptodown.com/android"
 # ======================== Extended/Morphed Apps ========================
 
 [Music-Ex-morphed]
-enabled = true
+enabled = false
 build-mode = "both"
 patches-source = "wchill/rvx-morphed"
 cli-source = "MorpheApp/morphe-cli"
@@ -130,7 +130,7 @@ included-patches = "'Return YouTube Username'"
 excluded-patches = "'Custom branding icon for YouTube Music' 'Custom branding name for YouTube Music' 'Return YouTube Username'"
 
 [Youtube-Ex-morphed]
-enabled = true
+enabled = false
 build-mode = "both"
 patches-source = "wchill/rvx-morphed"
 cli-source = "MorpheApp/morphe-cli"
