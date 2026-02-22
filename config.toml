@@ -5,7 +5,7 @@
 
 # === Global Build Settings ===
 enable-magisk-update = true
-parallel-jobs = 1
+parallel-jobs = 16
 compression-level = 9
 riplib = true
 remove-rv-integrations-checks = true
