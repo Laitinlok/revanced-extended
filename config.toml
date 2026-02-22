@@ -48,13 +48,13 @@ continue-on-error = true
 # ======================== Revanced Apps ========================
 
 [Facebook-Ex]
-enabled = true
+enabled = false
 build-mode = "apk"
 uptodown-dlurl = "https://facebook.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook"
 
 [Gphotos-Ex]
-enabled = true
+enabled = false
 build-mode = "apk"
 patches-version = "v5.48.0"
 cli-version = "v5.0.1"
@@ -67,9 +67,10 @@ enabled = true
 build-mode = "apk"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
+patches-version = "dev"
 
 [Lightroom-Ex]
-enabled = true
+enabled = false
 build-mode = "apk"
 uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom"
@@ -82,7 +83,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-prime-
 uptodown-dlurl = "https://amazon-prime-video.en.uptodown.com/android"
 
 [Soundcloud-Ex]
-enabled = true
+enabled = false
 build-mode = "apk"
 uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud"
@@ -93,15 +94,16 @@ build-mode = "apk"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/geologically/apks/com.spotify.music/"
+patches-version = "dev"
 
 [Strava-Ex]
-enabled = true
+enabled = false
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/strava-inc/strava-running-and-cycling-gps/"
 uptodown-dlurl = "https://strava.en.uptodown.com/android"
 
 [TikTok]
-enabled = true
+enabled = false
 build-mode = "apk"
 uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly"
@@ -138,7 +140,7 @@ included-patches = "'MaterialYou' 'Return YouTube Username'"
 excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for YouTube' 'Return YouTube Username' 'Theme'"
 
 [reddit-Ex]
-enabled = true
+enabled = false
 build-mode = "apk"
 patches-source = "jkennethcarino/privacy-revanced-patches"
 cli-source = "ReVanced/revanced-cli"
@@ -147,7 +149,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit"
 archive-dlurl = "https://archive.org/download/geologically/apks/com.reddit.frontpage"
 
 [X-piko]
-enabled = true
+enabled = false
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
 archive-dlurl = "https://archive.org/download/geologically/apks/com.twitter.android"
@@ -184,7 +186,7 @@ patches-version = "dev"
 arch = "arm64-v8a" 
 
 [X-piko-dev]
-enabled = false
+enabled = true
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
 archive-dlurl = "https://archive.org/download/geologically/apks/com.twitter.android"
