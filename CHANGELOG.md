@@ -2,7 +2,7 @@
 
 All notable changes to ReVanced Extended builds are documented here.
 
-## [202602221657] - 2026-02-22
+## [202602222050] - 2026-02-22
 
 ### Patches Applied
 
@@ -10,7 +10,7 @@ All notable changes to ReVanced Extended builds are documented here.
 ### Build Artifacts
 
 #### Spotify-ex
-- `spotify-ex-revanced-v9.1.26.2265-arm64-v8a.apk` (87M)
+- `spotify-ex-revanced-v9.0.96.819-arm64-v8a.apk` (82M)
 
 
 ### Links
