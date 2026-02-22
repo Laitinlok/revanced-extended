@@ -95,6 +95,7 @@ build-mode = "apk"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/geologically/apks/com.spotify.music/"
 patches-version = "dev"
+excluded-patches = "Sanitize sharing links"
 
 [Strava-Ex]
 enabled = false
