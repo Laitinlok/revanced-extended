@@ -67,7 +67,7 @@ enabled = true
 build-mode = "apk"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
-excluded-patches = "Sanitize sharing links"
+excluded-patches = "'Sanitize sharing links'"
 
 [Lightroom-Ex]
 enabled = false
@@ -95,7 +95,7 @@ build-mode = "apk"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/geologically/apks/com.spotify.music/"
 patches-version = "dev"
-excluded-patches = "Sanitize sharing links"
+excluded-patches = "'Sanitize sharing links'"
 
 [Strava-Ex]
 enabled = false
@@ -195,7 +195,7 @@ uptodown-dlurl = "https://twitter.id.uptodown.com/android"
 patches-source = "crimera/piko"
 cli-source = "MorpheApp/morphe-cli"
 included-patches = "'Disable chirp font' 'Hide Banner' 'Hide FAB' 'Hide promote button' 'Dynamic color' 'Hide Community Notes' 'Control video auto scroll' 'Remove premium upsell' 'Delete from database'"
-excluded-patches = "Custom sharing domain"
+excluded-patches = "'Custom sharing domain'"
 patches-version = "dev"
 
 # ==========================================================================
