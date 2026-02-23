@@ -2,7 +2,7 @@
 
 All notable changes to ReVanced Extended builds are documented here.
 
-## [202602222109] - 2026-02-22
+## [202602231709] - 2026-02-23
 
 ### Patches Applied
 
@@ -11,9 +11,6 @@ All notable changes to ReVanced Extended builds are documented here.
 
 #### Spotify-ex
 - `spotify-ex-revanced-v9.0.96.819-arm64-v8a.apk` (82M)
-
-#### Instagram-ex
-- `instagram-ex-revanced-v417.0.0.54.77-arm64-v8a.apk` (135M)
 
 
 ### Links
