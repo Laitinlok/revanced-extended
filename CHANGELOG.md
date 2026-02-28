@@ -2,7 +2,7 @@
 
 All notable changes to ReVanced Extended builds are documented here.
 
-## [202602271651] - 2026-02-27
+## [202602281636] - 2026-02-28
 
 ### Patches Applied
 
@@ -10,7 +10,7 @@ All notable changes to ReVanced Extended builds are documented here.
 ### Build Artifacts
 
 #### Instagram-ex
-- `instagram-ex-revanced-v417.0.0.54.77-arm64-v8a.apk` (135M)
+- `instagram-ex-revanced-v418.0.0.51.77-arm64-v8a.apk` (140M)
 
 
 ### Links
