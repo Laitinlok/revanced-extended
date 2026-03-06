@@ -2,7 +2,7 @@
 
 All notable changes to ReVanced Extended builds are documented here.
 
-## [202603051812] - 2026-03-05
+## [202603061654] - 2026-03-06
 
 ### Patches Applied
 
@@ -14,7 +14,7 @@ All notable changes to ReVanced Extended builds are documented here.
 - `soundcloud-ex-revanced-v2025.05.27-release-arm64-v8a.apk` (76M)
 
 #### Tiktok
-- `tiktok-revanced-module-v36.5.4-arm64-v8a.zip` (435M)
+- `tiktok-revanced-module-v36.5.4-arm64-v8a.zip` (434M)
 - `tiktok-revanced-v36.5.4-arm64-v8a.apk` (306M)
 
 #### Youtube-ex
@@ -34,7 +34,7 @@ All notable changes to ReVanced Extended builds are documented here.
 - `gphotos-ex-revanced-v7.66.0.876414181-arm64-v8a.apk` (119M)
 
 #### Revpack
-- `revpack-v20260305.zip` (1.8G)
+- `revpack-v20260306.zip` (1.8G)
 
 #### Lightroom-ex
 - `lightroom-ex-revanced-module-v9.3.0-arm64-v8a.zip` (189M)
@@ -46,7 +46,7 @@ All notable changes to ReVanced Extended builds are documented here.
 
 #### Instagram-ex
 - `instagram-ex-revanced-module-v419.0.0.49.71-arm64-v8a.zip` (226M)
-- `instagram-ex-revanced-v419.0.0.49.71-arm64-v8a.apk` (138M)
+- `instagram-ex-revanced-v419.0.0.49.71-arm64-v8a.apk` (137M)
 
 #### Facebook-ex
 - `facebook-ex-revanced-module-v490.0.0.63.82-arm64-v8a.zip` (116M)
